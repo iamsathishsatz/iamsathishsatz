@@ -133,7 +133,7 @@ My experience spans global financial institutions and logistics enterprises, inc
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamsathishsatz&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
